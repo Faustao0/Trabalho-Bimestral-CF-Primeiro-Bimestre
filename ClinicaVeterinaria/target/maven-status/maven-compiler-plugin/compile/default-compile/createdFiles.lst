@@ -1,0 +1,14 @@
+com\mycompany\clinicaveterinaria\model\Animal.class
+com\mycompany\clinicaveterinaria\model\Consulta.class
+com\mycompany\clinicaveterinaria\model\Endereco.class
+com\mycompany\clinicaveterinaria\ClinicaVeterinaria.class
+com\mycompany\clinicaveterinaria\model\Servico.class
+com\mycompany\clinicaveterinaria\domain\TipoServicoEnum.class
+com\mycompany\clinicaveterinaria\model\Exame.class
+com\mycompany\clinicaveterinaria\model\Vacina.class
+com\mycompany\clinicaveterinaria\model\Proprietario.class
+com\mycompany\clinicaveterinaria\model\Medicamento.class
+com\mycompany\clinicaveterinaria\model\MedicosVeterinarios.class
+com\mycompany\clinicaveterinaria\model\Telefone.class
+com\mycompany\clinicaveterinaria\model\BanhoTosa.class
+com\mycompany\clinicaveterinaria\model\Pessoa.class
